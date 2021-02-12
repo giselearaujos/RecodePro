@@ -1,0 +1,98 @@
+[
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d1" },
+        "categoria" : "Geladeria",
+        "imagem" : "./img/geladeira01.png",
+        "descricao" : "Geladeira Frost Free Brastemp ",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d2" },
+        "categoria" : "Geladeira",
+        "imagem" : "./img/geladeira02.png",
+        "descricao" : "Geladeira Frost Free Brastemp ",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d3" },
+        "categoria" : "Geladeira",
+        "imagem" : "./img/geladeira03.png",
+        "descricao" : "Geladeira Frost Free Brastemp ",
+        "preco" : 1389.00,
+        "precoFinal" : 719.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d4" },
+        "categoria" : "Fogão",
+        "imagem" : "./img/fogao01.png",
+        "descricao" : "Fogão de 4 bocas ",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d5" },
+        "categoria" : "Fogão",
+        "imagem" : "./img/fogao02.png",
+        "descricao" : "Fogão 4 bocas ",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d6" },
+        "categoria" : "Microondas",
+        "imagem" : "./img/micro01.jpg",
+        "descricao" : "Microondas Frost Free Brastemp ",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d7" },
+        "categoria" : "Microondas",
+        "imagem" : "./img/micro02.png",
+        "descripcao" : "Microondas Frost Free Brastemp",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d8" },
+        "categoria" : "Microondas",
+        "imagem" : "./img/micro03.png",
+        "descricao" : "Microondas Frost Free Brastemp",
+        "preco" : 1389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a815d9" },
+        "categoria" : "Lavadoura de Roupa",
+        "imagem" : "./img/lavadoura01.png",
+        "descricao" : "Lavadora Frost Free Brastemp",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a81510" },
+        "categoria" : "Lavadoura de Roupa",
+        "imagem" : "./img/lavadoura02.png",
+        "descricao" : "Lavadora Frost Free Brastemp ",
+        "preco" : 1389.00,
+        "precoFinal" : 900.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a81511" },
+        "categoria" : "Lava-Louça",
+        "imagem" : "./img/lava_louca01.png",
+        "descricao" : "Lava Louça Frost Free Brastemp",
+        "preco" : 2389.00,
+        "precoFinal" : 1019.00
+    },
+    {
+        "_id" : { "$oid": "6016cf66937399e892a81512" },
+        "categoria" : "Lava-Louça",
+        "imagem" : "./img/lava_louca02.jpg",
+        "descricao" : "Lava Louça Frost Free Brastemp",
+        "preco" : 8389.00,
+        "precoFinal" : 3019.00
+    }
+]
