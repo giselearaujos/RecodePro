@@ -1,0 +1,18 @@
+
+.container{
+    background-color: rgba(0, 0, 0, 0.705);  
+    border-radius:15px;
+}
+
+.logo{
+    font-family: 'Abril Fatface', cursive;
+    color: #fff;
+    font-size: 80px;
+    display:flex;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
